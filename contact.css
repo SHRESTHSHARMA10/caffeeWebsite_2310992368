@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+body{
+    background-image: url(https://wallpaperswide.com/download/black_coffee_2-wallpaper-5120x2880.jpg);
+}
+
+#color {
+    color: aliceblue;
+}
+
+#box-shadow {
+    
+    box-shadow: 0px 0px 30px #ece5f2;
+}
+
+#logo img {
+    height: 40px;
+
+
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 1px;
+    margin-right: 20px;
+
+    cursor: pointer;
+}
+
+
+.container {
+    color: #fff;
+    padding: 20px;
+    background-color: #e3ac797d;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+
+
+footer {
+    padding: 20px;
+    text-align: center;
+    background-color: #fff;
+    margin-top: 10px;
+}
+
+footer {
+    background-color: #a9530888;
+    color: white;
+    width: 100vw;
+}
